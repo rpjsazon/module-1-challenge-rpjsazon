@@ -7,6 +7,7 @@
 * **Added transition** change color to gray on header anchor.
 * I added **html scroll-behavior (smooth) for smooth transition** going to the link ID's.
 * I added **fixed position** to header.
+* **Resizing the digital-marketing-meeting image from 13mb to 282kb** for fast website loading.
 
 ### Minor Update:
 
