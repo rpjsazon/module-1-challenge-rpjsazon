@@ -33,7 +33,7 @@ header h1 .seo {
     color: gray;
 }
 
-header div {
+header nav {
     padding-top: 15px;
     margin-right: 20px;
     float: right;
@@ -41,23 +41,23 @@ header div {
     font-size: 20px;
 }
 
-header div ul {
+header nav ul {
     list-style-type: none;
 }
 
-header div ul li {
+header nav ul li {
     display: inline-block;
     margin-left: 25px;
 }
 
 /* header added transition to color gray */
-header div ul li a {
+header nav ul li a {
     color: #ffffff;
     text-decoration: none;
     transition: color 0.5s;
 }
 
-header div ul li a:hover {
+header nav ul li a:hover {
     color: gray;
 }
 
@@ -66,7 +66,7 @@ p {
 }
 
 /* I did changed the path of the image url */
-.hero {
+.header-bg {
     height: 800px;
     width: 100%;
     margin-bottom: 25px;
